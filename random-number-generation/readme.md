@@ -16,18 +16,18 @@ For example:
     ./run_vcs.sh prng1.sv +define+EX_1_1 +SEED=20
     ./run_questa.sh prng1.sv +define+EX_1_1 +SEED=20
 
-ARG1 (Required): +define+<example_number> 
+ARG1 (Required): `+define+<example_number>` 
 
- The <example_number> argument corresponds to the example number in
+ The `<example_number>` argument corresponds to the example number in
  the article. So, to run example 1.2 you have to pass the command
- line arg +define+EX_1_2
+ line arg `+define+EX_1_2`
 
-ARG2 (Optional): +SEED=<seed>
+ARG2 (Optional): `+SEED=<seed>`
 
  This is an optional argument, use it if the example involves using it.
 
 ## Commands to run example 1:
-(use run_questa.sh instead of run_vcs.sh to run with Mentor simulator):
+(use `run_questa.sh` instead of `run_vcs.sh` to run with Mentor simulator):
     
     example 1.1: ./run_vcs.sh prng1.sv +define+EX_1_1 
     example 1.2: ./run_vcs.sh prng1.sv +define+EX_1_2
