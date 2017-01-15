@@ -12,3 +12,4 @@ General notes:
 ## Table of Contents
 
 1. `random-number-generation`:  [SystemVerilog Randomization & Random Number Generation](https://systemverilog.io/randomization.html)
+3. `macros`:  [SystemVerilog Macros](https://systemverilog.io/macros.html)
