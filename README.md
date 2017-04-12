@@ -11,5 +11,7 @@ General notes:
 
 ## Table of Contents
 
-1. `random-number-generation`:  [SystemVerilog Randomization & Random Number Generation](https://systemverilog.io/randomization.html)
-3. `macros`:  [SystemVerilog Macros](https://systemverilog.io/macros.html)
+1. `macros`:  [SystemVerilog Macros](https://systemverilog.io/macros.html)
+2. `random-number-generation`:  [SystemVerilog Randomization & Random Number Generation](https://systemverilog.io/randomization.html)
+3. `random-stability`:  [SystemVerilog Random Stability](https://systemverilog.io/random-stability.html)
+4. `vmc-swift`: [How to Create & Use VMC SWIFT Models](https://systemverilog.io/vmc-swift.html)
